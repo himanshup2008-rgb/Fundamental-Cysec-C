@@ -9,6 +9,6 @@ The zip includes a Master project executable which contains 4 tools.
 
 3.Hex Dumper. This one might be a bit confusing since the location is hard coded but it extracts text from a file and dumps its hexadecimals. There is a HexTest.txt to test it but if you want to use your own files you can change its code in HexDump.c in the src folder.
 
-4.XOR encrypter is an encrypter like Caesar Cipher but it uses a ^ operator alongside the alphabet key to Xor the text and encrypt it into hexadecimals, try using it on you name and turn it into 0A or whatever. For this you are going to need to enter the key in alphabets, use only a single letter. There is a decrypt function to that uses the same key to turn your name back. Enter the hexadecimals with or without spaces when decrypting it has been optimized.
+4.XOR encrypter is an encrypter like Caesar Cipher but it uses a ^ operator alongside the alphabet key to Xor the text (google it) and encrypt it into hexadecimals, try using it on you name and turn it into 0A or whatever. For this you are going to need to enter the key in alphabets, use only a single letter. There is a decrypt function to that uses the same key to turn your name back. Enter the hexadecimals with or without spaces when decrypting it has been optimized.
 
 Let me know of any errors or bugs, I like learning... thank you.
